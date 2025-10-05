@@ -1,4 +1,5 @@
 // btw i used boukerche-binary-serach lol 
+// edit : i solve it */*
 #include<bits/stdc++.h>
 using namespace std;
 const int inf = INT_MAX;
